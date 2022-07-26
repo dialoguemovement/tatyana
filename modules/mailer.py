@@ -3,6 +3,8 @@
 #
 # This file is part of Tatyana.
 #
+# Copyright (C) 2022  Dialogue Movement contributors.  See AUTHORS.
+#
 # Tatyana is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
