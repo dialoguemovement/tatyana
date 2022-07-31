@@ -32,7 +32,7 @@ modname = distname = 'tatyana'
 setup(
     name=distname,
     version=VERSION,
-    description='Bot for interaction with the local government bodies',
+    description='Bot for interaction with the local authorities',
     author='Mikhail Podivilov',
     author_email='mikhail@podivilov.com',
     packages=[ 'tatyana', 'tatyana.examples' ],
